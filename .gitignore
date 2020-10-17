@@ -129,4 +129,5 @@ dmypy.json
 .pyre/
 
 data/cell_images/*
+data/cell_images
 *.png
